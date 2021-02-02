@@ -1,4 +1,7 @@
-## User interface with Reactjs, Recoiljs and Firebase
+##  Reactjs, Recoiljs, sass and Firebase blueprint .
+
+a quick-start kit with react and recoil js for global stats management, 
+sass for the css and firebase for the data 
 
 ### launch the application
 
